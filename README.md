@@ -1,5 +1,5 @@
 # newfile
-When AI and Medicine collide
+
 Artificial intelligence is not just highly intelligent human-like robots attempting to take over the world someday in the far future, artificial intelligence is all around us and it is progressing rapidly. From SIRI and smart watches to facial recognition and Tesla’s self-driving cars, most of us use some form of artificial intelligence throughout the day. 
 According to the World Economic Forum, AI will replace 85 million jobs by the year 2025, and while that sounds alarming, it is estimated that 97 million new jobs will be created due to AI. The healthcare industry will benefit the most from the use of AI, with an increase of nearly 1 million job opportunities. (allwork) 
 Undoubtedly, Artificial Intelligence has its benefits and risks to society but with better monitoring and diagnostic capabilities, AI can drastically improve the medical world (Bernard).
