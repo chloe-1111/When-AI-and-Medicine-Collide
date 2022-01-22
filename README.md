@@ -1,7 +1,7 @@
-
+<h1> Artificial Intelligence in the Future </h1>
 <p> Artificial intelligence is not just highly intelligent human-like robots attempting to take over the world someday in the far future, artificial intelligence is all around us and it is progressing rapidly. From SIRI and smart watches to facial recognition and Tesla’s self-driving cars, most of us use some form of artificial intelligence throughout the day. </p>
 <p> According to the World Economic Forum, AI will replace 85 million jobs by the year 2025, and while that sounds alarming, it is estimated that 97 million new jobs will be created due to AI. The healthcare industry will benefit the most from the use of AI, with an increase of nearly 1 million job opportunities. (Ascott, 2021) 
-Undoubtedly, Artificial Intelligence has its benefits and risks to society but with better monitoring and diagnostic capabilities, AI can drastically improve the medical world (Marr, n.d.). </p>
+<p> Undoubtedly, Artificial Intelligence has its benefits and risks to society but with better monitoring and diagnostic capabilities, AI can drastically improve the medical world (Marr, n.d.). </p>
 
 <h1> Risks of AI in Healthcare </h1> <hl/>
 <p> One of the main concerns with artificial intelligence is ensuring that technology does not prioritize the task at hand over human ethics, values or laws (Marr, n.d.). Even though AI systems are recently being trained to be more human-like, the judgement of a medical professional is still essential. It is important to acknowledge the benefit of combining the powers of AI systems and physicians (Raghunandan, 2018). </p>  
