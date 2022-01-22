@@ -1,5 +1,30 @@
 # newfile
+When AI and Medicine collide
+Artificial intelligence is not just highly intelligent human-like robots attempting to take over the world someday in the far future, artificial intelligence is all around us and it is progressing rapidly. From SIRI and smart watches to facial recognition and Tesla’s self-driving cars, most of us use some form of artificial intelligence throughout the day. 
+According to the World Economic Forum, AI will replace 85 million jobs by the year 2025, and while that sounds alarming, it is estimated that 97 million new jobs will be created due to AI. The healthcare industry will benefit the most from the use of AI, with an increase of nearly 1 million job opportunities. (allwork) 
+Undoubtedly, Artificial Intelligence has its benefits and risks to society but with better monitoring and diagnostic capabilities, AI can drastically improve the medical world (Bernard).
 
-test
+<h1> Risks of AI in Healthcare </h1>
+One of the main concerns with artificial intelligence is ensuring that technology does not prioritize the task at hand over human ethics, values or laws (Bernard). Even though AI systems are recently being trained to be more human-like, the judgement of a medical professional is still essential. It is important to acknowledge the benefit of combining the powers of AI systems and physicians (kolabtree).   
+Because AI systems are prone to errors, using artificial intelligence in the healthcare sector could result in patient injury (tristate). In conjunction with errors, accountability is another issue, who takes responsibility for the error? The AI developer, the doctors and nurses operating the machinery, or maybe even the manufacturer? 
+When asked about the primary concern of AI in healthcare, most people would probably agree that privacy is a serious concern. Since AI stores and processes a significant amount of data on patients and diseases, the risk of data leaks is higher than ever before (forbes 2). It is essential to keep patients as the main priority and ensure that all patients are protected from any data leaks and security breaches (forbes 2). 
+Bias and discrimination are frequent in the world of artificial intelligence. Healthcare practitioners and IT specialists should carefully consider the best possible training methods for AI systems and ensure that high-source quality data is used during training to avoid inequality. (tristate)
 
-test2
+<h1> Benefits of AI in Healthcare </h1>
+It is no secret that introducing AI into an organization takes time, money and a lot of staff training. In the long run, AI can help save money by eradicating inefficiencies; an estimated $760 billion to $935 billion is wasted per year in the U.S. healthcare industry (forbes r&b) 
+Artificial intelligence has great benefits to the world of diagnostics. AI tools can be used to compare previous and present health issues of patients and therefore allows medical professionals to diagnose diseases earlier and more accurately (tristate). AI can also use patient data to predict how susceptible a patient is to certain illnesses or diseases. Mozziyar Etemadi created and trained an AI system to detect early stages of lung cancer. He reported that his system correctly identified cancer 94% of the time. This would allow patients to receive medical care sooner and in turn, increasing the patients chance of surviving lung cancer. (nature) 
+AI can also be advantageous in the healthcare administrative sector by automating administrative tasks which saves both time and money (forbes). By getting rid of the repetitive tasks, doctors and nurses have more time to assist patients on a regular basis (kolabtree). 
+Healthcare artificial intelligence is beneficial to the general public. AI can be used to assist us in sustaining a healthy lifestyle, whether it’s a smartwatch that tracks your breathing, heart rate as well as fall detection or simply a smartphone app that tracks your steps, AI can be used to keep us healthy (kolabtree). 
+
+<h1> AI in Robotic Surgery </h1>
+Of course, we are still far away from robots replacing surgeons, complex tasks during surgical procedures require the skills of a surgeon, but for now robots can be of great assistance to surgeons during procedures (kolatree). Surgery-assisting robots can help improve surgical performance with great speed and precision (automate). They are especially well-suited for procedures that require repetitive movements as they are able to work without getting fatigued and with very few accidental movements (automate). 
+Robot-assisted surgery is considered minimally invasive allowing patients to heal faster as well as a 21% reduction in patients hospital stay (forbes). Research shows that AI-assisted robotic procedures could result in almost five times lesser complications than surgeons operating traditionally (forbes). 
+AI can also be used to operate on patients in a different location to the surgeon, this means countries with limited medical staff and resources now have access to medical care (zdnet). According to WHO, there is currently an 18.1-year gap in life expectancy between the worlds richest and poorest countries, all due to limited access to healthcare (tristate). 
+The first example of a surgical robot is the Da Vinci, which is the most advanced surgical robot and allowed surgeons to perform eye surgeries with greater control (forbes). The second, is a robot used in 2019 by Dr Patel which performed the first long distance heart surgery, and it was successful (zdnet). 
+
+<h1> Conclusion </h1>
+AI is proving to create endless opportunities. In the healthcare sector alone, AI is improving administrative tasks, diagnostic abilities and surgeries with great speed and effectiveness as well as saving both time and money. AI can be advantageous to the general public in order to maintain a healthy lifestyle. Of course, with all the benefits of AI comes risks, including AI errors resulting in injuries, privacy issues and discrimination. 
+It is clear that robotics and AI bring huge benefits to the healthcare sector, which far outweigh the risks. With ethical use of AI systems, the medical field can be revolutionized, improving the lives of many all over the world. 
+
+
+
